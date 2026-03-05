@@ -7,3 +7,5 @@ step 4: activate the virtual environment
     - `env\Scripts\activate`
 step 5: install django
     - `pip install django`
+step 6: create a django project
+   -  '
